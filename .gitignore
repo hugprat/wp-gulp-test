@@ -8,7 +8,7 @@ Thumbs.db
 *.sql
 *.sqlite
 !.gitignore
-
+:Zone.Identifier
 #node files & sass
 node_modules
 tmp
